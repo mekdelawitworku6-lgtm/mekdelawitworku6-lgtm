@@ -59,7 +59,7 @@ REST API built with Node.js and MongoDB.
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/Mekdelawit WORKU
+GitHub: https://github.com/mekdelawitworku6-lgtm
 
 -- 
 ⭐ Always learning, building, and improving my skills.
