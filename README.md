@@ -1,14 +1,14 @@
-# Hi 👋 I'm Mekdelawit Worku
+# Hi  I'm Mekdelawit Worku
 
-💻 Full Stack Developer  
-📍 Addis Ababa, Ethiopia  
+ Full Stack Developer  
+ Addis Ababa, Ethiopia  
 
 I build modern web and mobile applications using React, Node.js, and MongoDB.  
 Currently learning advanced full-stack development with Next.js.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 Frontend
 - React
@@ -32,13 +32,13 @@ Tools
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 - UI/UX Design (Figma)
 - Full Stack Web Development
 - Mobile App Development with React
 
-## 🔭 Current Learning
+##  Current Learning
 
 - Advanced Next.js
 - Backend architecture
@@ -49,7 +49,7 @@ My main programming language is **JavaScript**, which I use extensively for buil
 Most of my projects, including **DevHub**, are built with JavaScript.  
 I am currently learning **Python** to expand my backend, automation, and data-handling skills.
 
-## 📂 Featured Project
+## Featured Project
 
 ### Blog Platform
 Full stack blog application with authentication.
@@ -57,7 +57,7 @@ Full stack blog application with authentication.
 ### Task Manager API
 REST API built with Node.js and MongoDB.
 
-## 📫 Connect With Me
+##  Connect With Me
 
 GitHub: https://github.com/mekdelawitworku6-lgtm
 
